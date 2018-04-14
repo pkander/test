@@ -16,6 +16,7 @@ namespace CsvConverter
         {
             this.filePath = filePath;
         }
+
         public void readfile()
         {
             rows = new List<Row>();
